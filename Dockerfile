@@ -1,4 +1,4 @@
-FROM wordpress:4.7-php7.0
+FROM wordpress:4.9-php7.0
 MAINTAINER Jonathan Tse "jtse@proactivesystem.com.hk"
 
 RUN apt-get update && \
